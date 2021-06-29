@@ -1,6 +1,5 @@
 import React from 'react';
 
-import { useParams } from 'react-router-dom';
 
 import ThoughtList from '../components/ThoughtList';
 import FriendList from '../components/FriendList';
